@@ -2,10 +2,10 @@
 
 ### About myself :octocat:
 ```javascript
-const Khristian = () => ({
+const Armin = () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webdev", "tech", "data"
+    "webdev", "tech", "nocode"
   ],
   technologies: {
     "languages": [ "JavaScript", "Ruby", "Sass", "CSS"],
