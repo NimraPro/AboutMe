@@ -8,11 +8,11 @@ const Armin = () => ({
     "webdev", "tech", "nocode"
   ],
   technologies: {
-    "languages": [ "JavaScript", "Ruby", "Sass", "CSS"],
-    "CSS": ["Bulma", "Bootstrap"],
-    "web": [ "React","Node.js", "WebPack", "Babel", "Rails"],
-    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite" ],
-    "devOps": [ "Git"],
+    "languages": [ "JavaScript", "TypeScript", "Ruby"],
+    "CSS": ["Bulma", "Bootstrap", "Sass"],
+    "web": [ "React", "Nest JS", "Rails on Rails", "Next JS" ],
+    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite", "GraphQL", "Mongo DB" ],
+    "devOps": [ "Git", "CI", "TDD", "Docker", "Kubernetes" ],
     "operatingSystems": [ "GNU/Linux", "Windows" ],
     "editors": [ "VSCode" ]
   }
